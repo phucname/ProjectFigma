@@ -51,6 +51,11 @@ android {
 
 dependencies {
 
+    implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
+    implementation( "androidx.navigation:navigation-compose:2.4.0")
+
+    implementation ("androidx.compose.ui:ui:1.6.8")
+    implementation ("androidx.compose.material:material:1.6.8")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

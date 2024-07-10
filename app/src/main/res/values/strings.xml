@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestFigma</string>
+    <string name="home_bottom">Home</string>
+    <string name="search_bottom"> Search</string>
+    <string name="download_bottom">DownLoad</string>
+    <string name="filed_bottom">Filed</string>
+    <string name="account_bottom">Account</string>
 </resources>
